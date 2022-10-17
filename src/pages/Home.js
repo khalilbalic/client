@@ -7,10 +7,10 @@ const Home = () => {
         Welcome to my home page
       </h1>
       <p className="mx-auto leading-relaxed text-base mb-4">
-        khallil
+        khallil meddeb
       </p>
       <p className="mx-auto leading-relaxed text-base mb-4">
-        treppiuytrezeaioiytzii
+        treppiuytrezeaioiytzii khalil hegge
       </p>
       <p className="mx-auto leading-relaxed text-base mb-4">
         nwxbnnbcnbncxnbcxn
