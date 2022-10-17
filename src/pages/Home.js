@@ -10,10 +10,10 @@ const Home = () => {
         khallil meddeb
       </p>
       <p className="mx-auto leading-relaxed text-base mb-4">
-        treppiuytrezeaioiytzii khalil hegge
+        treppiuytrezeaioiytzii khalil hegge hh
       </p>
       <p className="mx-auto leading-relaxed text-base mb-4">
-        nwxbnnbcnbncxnbcxn
+        nwxbnnbcnbncxnbcxn khalil 
       </p>
     </div>
   );
